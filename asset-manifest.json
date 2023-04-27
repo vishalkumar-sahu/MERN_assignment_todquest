@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MERN_assignment_todquest/static/css/main.c4e27bd2.css",
+    "main.js": "/MERN_assignment_todquest/static/js/main.147e30b7.js",
+    "static/js/787.5de9ef30.chunk.js": "/MERN_assignment_todquest/static/js/787.5de9ef30.chunk.js",
+    "static/media/man.svg": "/MERN_assignment_todquest/static/media/man.f9f0e522e6e609eb97f9ac1d66ea4eb6.svg",
+    "index.html": "/MERN_assignment_todquest/index.html",
+    "main.c4e27bd2.css.map": "/MERN_assignment_todquest/static/css/main.c4e27bd2.css.map",
+    "main.147e30b7.js.map": "/MERN_assignment_todquest/static/js/main.147e30b7.js.map",
+    "787.5de9ef30.chunk.js.map": "/MERN_assignment_todquest/static/js/787.5de9ef30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4e27bd2.css",
+    "static/js/main.147e30b7.js"
+  ]
+}
