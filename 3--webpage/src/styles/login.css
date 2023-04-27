@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.container{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(72.04% 72.04% at 50% 12.73%, #467D7D 0%, #719F9E 100%);
+}
+
+.innerContainer{
+    position: absolute;
+    width: 80%;
+    height: 80%;
+    left: 10%;
+    right: 10%;
+    top: 10%;
+    bottom: 10%;
+}
+
+.canvasBackground{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    background: #FFBA33;
+    border-radius: 4px;
+
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.canvasUpper{
+    position: relative;
+    width: 90%;
+    height: 100%;
+    border-radius: 4px 0px 0px 4px;
+    background: radial-gradient(50.31% 50.31% at 9.84% 45.44%, #3C818C 0%, #1A535C 100%);
+}
+
+.imgMan{
+    position: relative;
+    width: 90%;
+    height: 90%;
+    top: 5%;
+}
+
+.content{
+    position: relative;
+    width: 70%;
+    height: 70%;
+    top: 15%;
+    left: 10%;
+    background-color: white;
+    border-radius: 10px;
+    display: grid;
+    grid-template-rows: 16% 64% 20%;
+}
+
+.upperForm{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px 10px 0 0;
+    top: 0;
+    /* background-color: rgb(194, 184, 184); */
+    display: grid;
+    grid-template-columns: 50% 50%;
+    box-shadow: 0px 15px 10px -15px #111;  
+}
+
+.upperForm span{
+    font-family: 'Roboto', sans-serif;
+}
+
+.left{
+    position: relative;
+    left: 10%;
+    top: 30%;
+    color: #FFBA33;
+}
+
+.right{
+    position: relative;
+    left: 45%;
+    top: 30%;
+    border-radius: 0 0 10px 10px;
+    color: rgb(180, 178, 178);
+}
+
+.form{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-rows: 33% 33% 33%;
+
+    border-radius: 0 0 10px 10px;
+}
+
+.insideForm{
+    position: relative;
+    width: 100%;
+    /* background-color: black; */
+}
+
+.f1 input{
+    position: relative;
+    top: 50%;
+    width: 80%;
+    height: 40%;
+    left: 10%;
+    border-color: rgb(157, 154, 154);
+    border-radius: 4px;
+    background-color: rgb(244, 244, 244);
+    font-family: 'Roboto', sans-serif;
+}
+
+.f2 input{
+    position: relative;
+    top: 25%;
+    width: 80%;
+    height: 40%;
+    left: 10%;
+    border-radius: 4px;
+    background-color: rgb(244, 244, 244);
+    font-family: 'Roboto', sans-serif;
+}
+
+.f3 button{
+    position: relative;
+    top: 25%;
+    width: 80%;
+    height: 50%;
+    left: 10%;
+    color: white;
+    border-radius: 4px;
+    background: radial-gradient(50.31% 50.31% at 9.84% 45.44%, #3C818C 0%, #1A535C 100%);
+    font-family: 'Roboto', sans-serif;
+}
+
+.lowerForm{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: #FFBA33;
+}
+
+.lowerForm p{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
